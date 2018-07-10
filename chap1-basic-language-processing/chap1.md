@@ -45,7 +45,7 @@ __HOW DO WE IDENTIFY THE WORDS OF A TEXT THAT ARE MOST INFORMATIVE ABOUT  TOPIC?
 - You want the words in the middle (they occur more than x times and less than y times e.g. 7)
 
 
-__frequency distribution__ = the frequency of each vocabulry item in the text
+__frequency distribution__ = the frequency of each vocabulary item in the text
 
 ```
 fdist = FreqDist(text1)
